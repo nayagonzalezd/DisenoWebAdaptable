@@ -1,4 +1,6 @@
-Paso 1 
+<!--tu contenido
+
+///Paso 1 
 HTML significa HyperText Markup Language. Es el código que define la estructura y el contenido de una página web. Este es tu editor de código, donde escribirás HTML.
 
 Busca la línea 1 en el editor y escribe este texto:
@@ -6,10 +8,10 @@ Busca la línea 1 en el editor y escribe este texto:
 Welcome to freeCodeCamp
 Cuando termines, haz clic en el botón "verificar el código" para ver si es correcto.
 
-Paso 2
+///Paso 2
 HTML está compuesto por elementos. El primero que utilizarás es el elemento h1:
 
-<h1>Welcome to freeCodeCamp</h1>
+<h1>Welcome to freeCodeCamp </h1>
 Comienza con una etiqueta de apertura (<h1>), termina con una etiqueta de cierre (</h1>) y tiene el texto que mostrará entre las etiquetas.
 
 Convierte tu texto Welcome to freeCodeCamp en un elemento h1 agregando una etiqueta de apertura antes de él y una etiqueta de cierre después.
@@ -73,3 +75,4 @@ Introduction to JavaScript
 Luego, debajo de ese elemento h3, agrega un elemento p con el siguiente texto:
 
 JavaScript adds interactivity to a webpage
+--> 
